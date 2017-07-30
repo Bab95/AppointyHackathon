@@ -1,0 +1,10 @@
+/Users/babnishvyas/Desktop/newproject/bin/Debug/netcoreapp1.1/newproject.deps.json
+/Users/babnishvyas/Desktop/newproject/bin/Debug/netcoreapp1.1/newproject.runtimeconfig.json
+/Users/babnishvyas/Desktop/newproject/bin/Debug/netcoreapp1.1/newproject.runtimeconfig.dev.json
+/Users/babnishvyas/Desktop/newproject/bin/Debug/netcoreapp1.1/newproject.dll
+/Users/babnishvyas/Desktop/newproject/bin/Debug/netcoreapp1.1/newproject.pdb
+/Users/babnishvyas/Desktop/newproject/obj/Debug/netcoreapp1.1/newproject.csprojResolveAssemblyReference.cache
+/Users/babnishvyas/Desktop/newproject/obj/Debug/netcoreapp1.1/newproject.AssemblyInfo.cs
+/Users/babnishvyas/Desktop/newproject/obj/Debug/netcoreapp1.1/newproject.dll
+/Users/babnishvyas/Desktop/newproject/obj/Debug/netcoreapp1.1/newproject.pdb
+/Users/babnishvyas/Desktop/newproject/obj/Debug/netcoreapp1.1/newproject.csproj.CoreCompileInputs.cache
